@@ -16,7 +16,7 @@
 9. it will be an error because i is declared inside the loop. 
 10. length will be 3. The length is inilized as the length of the list named prices.
 11. [50, 100, 150], the push operation can modify const variable. 
-Data Types: 
+
 12. 
 A: student.name;
 
@@ -27,7 +27,6 @@ C: student.greeting();
 D: student['Favorite Teacher'].name;
 
 E: student.courseLoad[0];
-
 
 13. A: '32' anything add operation with '' the compiler will view it as a string
 
@@ -47,7 +46,7 @@ E: student.courseLoad[0];
     
     
 14. A: true compiler recoginzes '2' as 2, 2>1 is true
-15. 
+
     B: false 1's charCode=49, 2's charCode=50, 50>49
     
     C: true Number('2')=2;
