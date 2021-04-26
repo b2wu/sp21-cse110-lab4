@@ -6,7 +6,7 @@ Q5. error because const can not be modified.
 Q6. error because const can not be modified  
 1b:   
 1. 2 Because var can use out side the loop  
-2. 150. var can be used for out side of the loop. It will contain the last object's result which is 150  
+2. 150 var can be used for out side of the loop. It will contain the last object's result which is 150  
 3. 150 var can be used for out side of the loop. The line 8 multiply the answer by 100 then divide it by 100. Therefore, it becomes 150  
 4. [50, 100, 150] Because discounted is a list of finalPrice  
 5. it will print out error because let is only vaild inside the loop.   
