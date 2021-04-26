@@ -4,7 +4,9 @@ Q3. values added: 20
 Q4. error because it can only be accessed within block
 Q5. error because const can not be modified.
 Q6. error because const can not be modified
-1b:
+
+
+1b:   
 
 
 
