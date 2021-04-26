@@ -41,6 +41,7 @@ E: student.courseLoad[0];
     === only do compare if they are not the same type, return false
 17. it will return an array of [2,4,6]
     the modifyArray will get an array of [1,2,3],and doSomething as parameters. Then it will create an array called newArr that will be used for return. Then the for loop modify every element of the [1,2,3] by calling the function doSomething. The doSomething function will multiply it's parameter by 2 and return. Then the reuslt will push into the const newArr. Therefore, this program will give us an array of [2,4,6] at the end. 
+    
 19. 1
     4
     3
