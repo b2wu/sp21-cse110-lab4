@@ -1,2 +1,2 @@
 # sp21-cse110-lab4
-(https://cse135.paulurl.com/)[website]
+https://cse135.paulurl.com/
